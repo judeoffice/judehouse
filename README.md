@@ -1,5 +1,11 @@
 # judehouse
 
+## May 08, 2021
+```
+Vuetify install
+judehouseHead / judehouseContent / judehouseFoot Add
+```
+
 ## Project setup
 ```
 npm install
